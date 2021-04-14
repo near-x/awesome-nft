@@ -1,5 +1,5 @@
 # awesome-nft
-Awesome NFTs Projects and Toolkits
+Awesome NFTs Projects and Toolkits built with NEAR
 
 ## Standards
 
