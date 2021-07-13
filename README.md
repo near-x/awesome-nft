@@ -9,7 +9,7 @@ Awesome NFTs Projects and Toolkits built with NEAR
   - [Non-Fungible Token Metadata](https://nomicon.io/Standards/NonFungibleToken/Metadata.html) ([NEP-177](https://github.com/near/NEPs/discussions/177))
   - [Non-Fungible Token Approval Management](https://nomicon.io/Standards/NonFungibleToken/ApprovalManagement.html) ([NEP-178](https://github.com/near/NEPs/discussions/178))
   - [Non-Fungible Token Enumeration](https://nomicon.io/Standards/NonFungibleToken/Enumeration.html) ([NEP-181](https://github.com/near/NEPs/discussions/181))
-  - [Non-Fungible Token Royalty Payout](https://nomicon.io/Standards/NonFungibleToken/Payout.html) (([NEP-199](https://github.com/near/NEPs/discussions/199)))
+  - [Non-Fungible Token Royalty Payout](https://nomicon.io/Standards/NonFungibleToken/Payout.html) ([NEP-199](https://github.com/near/NEPs/discussions/199))
 
 
 ## Toolkits
