@@ -34,7 +34,7 @@ Awesome NFTs Projects and Toolkits built with NEAR
 
 - [Paras](http://paras.id): Create, Trade and Collect Digital Art Cards (DACs)
 - [Mintbase](https://mintbase.io/): Digital assets minted and backed by you
-- [hhs.art](https://hhs.art/): NFT digital art exhibited on Taobao Maker Festival
+- [Too Rich 秃力富房产](https://hhs.art/): NFT digital art exhibited on Taobao Maker Festival
 - [NFT Hiphop](https://nft.hiphop/): NFT collection that featured artists from the 70s to the present, built by Universal Hip Hop Museum, The NEAR Protocol, and Ed Young
 - [more NFT projects on NEAR](https://awesomenear.com/categories/nft/)
 
