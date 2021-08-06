@@ -4,7 +4,7 @@ Awesome NFTs Projects and Toolkits built with NEAR
 
 ## Build with NEAR
 
-1. [What is NEAR?](https://near.org/)
+1. [What is NEAR? https://near.org/ ](https://near.org/)
 2. [NEAR Developer Docs](https://docs.near.org): NEAR SDKs, APIs, tools, best practices, etc.
 3. [Learn NEAR Protocol](https://near.org/learn/): Learn more about NEAR in details
 4. [NEAR Certified Developer](https://learnnear.club/courses/near-certified-developer-level-1/): learn NEAR development in the course and earn $NEAR
