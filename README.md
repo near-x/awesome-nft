@@ -31,18 +31,17 @@ Awesome NFTs Projects and Toolkits built with NEAR
 
 ### NFT Market Examples
 
-- [NFT Marketplace](https://github.com/near-apps/nft-market) ([demo](https://near-apps.github.io/nft-market/)): PoC for NFT market projects
-- [NFT Launcher](https://github.com/near-apps/nft-launcher): launch NFT project with easy user on-boarding
+1. [NFT Marketplace](https://github.com/near-apps/nft-market) ([demo](https://near-apps.github.io/nft-market/)): PoC for NFT market projects
+2. [NFT Launcher](https://github.com/near-apps/nft-launcher): launch NFT project with easy user on-boarding
 
 
 ## DApps 
 
-- [Paras](http://paras.id): Create, Trade and Collect Digital Art Cards (DACs)
-- [Mintbase](https://mintbase.io/): Digital assets minted and backed by you
-- [Too Rich 秃力富房产](https://hhs.art/): NFT digital art exhibited on Taobao Maker Festival
-- [NFT Hiphop](https://nft.hiphop/): NFT collection that featured artists from the 70s to the present, built by Universal Hip Hop Museum, The NEAR Protocol, and Ed Young
-- [more NFT projects on NEAR](https://awesomenear.com/categories/nft/)
-
+1. [Mintbase](https://mintbase.io/): Digital assets minted and backed by you
+2. [Paras](http://paras.id): Create, Trade and Collect Digital Art Cards (DACs)
+3. [Too Rich 秃力富房产](https://hhs.art/): NFT digital art exhibited on Taobao Maker Festival
+4. [NFT Hiphop](https://nft.hiphop/): NFT collection that featured artists from the 70s to the present, built by Universal Hip Hop Museum, The NEAR Protocol, and Ed Young
+5. [more NFT projects on NEAR](https://awesomenear.com/categories/nft/)
 
 
 
