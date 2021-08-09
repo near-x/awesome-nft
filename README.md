@@ -34,6 +34,10 @@ Awesome NFTs Projects and Toolkits built with NEAR
 1. [NFT Marketplace](https://github.com/near-apps/nft-market) ([demo](https://near-apps.github.io/nft-market/)): PoC for NFT market projects
 2. [NFT Launcher](https://github.com/near-apps/nft-launcher): launch NFT project with easy user on-boarding
 
+### REST API
+
+1. [NEAR REST API Server](https://docs.near.org/docs/api/near-api-rest-server): perform blockchain calls with the simple REST API, with NFT support such as mint NFT, transfer NFT, view NFT owners with the POST/GET requests
+
 
 ## DApps 
 
